@@ -1,6 +1,6 @@
 REPOSITORIO
 
-edit
+edit DOS
 
 Este repositorio cumplirá la función de guardar todas las prácticas
 de la asignatura de Puesta en Producción Segura
